@@ -1,0 +1,41 @@
+<scheme name="Very Good Colour Scheme" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-02-21T11:14:31</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2018.3.4.0.0</property>
+    <property name="modified">2019-02-21T11:14:39</property>
+    <property name="originalScheme">Very Good Colour Scheme</property>
+  </metaInfo>
+  <attributes>
+    <option name="DEFAULT_CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="4ea9ff" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="3391ba" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value />
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ca656d" />
+      </value>
+    </option>
+    <option name="DEFAULT_STATIC_METHOD">
+      <value>
+        <option name="FOREGROUND" value="c6b85b" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="DEFAULT_STRING">
+      <value>
+        <option name="FOREGROUND" value="89a97d" />
+      </value>
+    </option>
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+  </attributes>
+</scheme>
